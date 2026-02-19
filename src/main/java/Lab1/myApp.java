@@ -7,7 +7,7 @@ public class myApp {
         int num1 = 2;
         int exp = 4;
 
-        System.out.println("Hi !");
+        System.out.println("Hi There!");
 
         System.out.println("Factorial of "+num1+": "+ myLibrary.factorial(num1));
         System.out.println(" "+num1 +" power of "+exp + " will be " + myLibrary.Power(num1, exp));
